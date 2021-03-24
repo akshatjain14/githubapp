@@ -1,6 +1,6 @@
 # githubapp
 
-## INTRO --
+## INTRO
 ```
 Its a github profile searching app build using vue ,firebase and axios . 
 It gives repository of username entered after login in the application. 
@@ -30,8 +30,8 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### LIVE WEBSITE 
+See [GITHUB PROFILE SEARCH APP](https://github-profile-searchapp.netlify.app).
 
 ## Github commands
 
